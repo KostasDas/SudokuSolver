@@ -1,3 +1,3 @@
-#Java Sudoku Solver
+# Java Sudoku Solver
 
-##Installation instructions
+## Installation instructions
