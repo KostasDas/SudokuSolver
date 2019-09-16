@@ -1,5 +1,7 @@
 # Java Sudoku Solver
 
+A sudoku solver written in java, using candidate numbers and backtracking
+
 <code>java --version
 
 Openjdk version "11.0.4" 2019-07-16  \
